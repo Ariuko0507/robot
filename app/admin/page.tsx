@@ -56,7 +56,7 @@ export default async function AdminPage() {
             }}
           >
             <img
-              src={`https://robohash.org/${user.id}?set=set4&size=80x80`}
+              src={`https://robohash.org/${user.id}?set=set6&size=80x80`}
               width={60}
               height={60}
               style={{ borderRadius: "50%" }}
